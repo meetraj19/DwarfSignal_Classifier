@@ -1,0 +1,15 @@
+torch 2.0.1+cu117
+openCV 4.8.0
+
+Data Structure
+  organized
+   - 0 stop
+     images
+   - 1 caution
+     images
+   - 2 go
+     images
+   - 3 off
+     images
+   -4 uncertain
+     images
