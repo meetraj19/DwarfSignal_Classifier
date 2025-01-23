@@ -8,4 +8,6 @@ Off. Each category represents a critical state in railway signaling.
 b). The CNN model processes these images to accurately detect and classify the signals. By automating the detection of
 dwarf signals, the system minimizes human error, ensures timely decision-making, and enhances overall train safety.
 
+The sample Dataset and the training Scripts are on the Master branch.
+
 ![Screenshot from 2025-01-23 14-29-46](https://github.com/user-attachments/assets/45db21fc-35ce-47b9-ba54-996ab50b88ff)
