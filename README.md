@@ -1,5 +1,6 @@
 # DwarfSignal_Classifier
 Dwarf Signal Image Classiﬁer Using CNN
+
 a). A convolutional neural network (CNN) was developed to classify dwarf signal images on railway tracks, aiming to
 enhance train safety. The dataset includes 4,000 images categorized into ﬁve signal types: Stop, Uncertain,Caution, Go, and
 Off. Each category represents a critical state in railway signaling.
